@@ -9,7 +9,7 @@ class App extends Component {
  constructor(props){
       super(props);
       this.state={
-                dishes:DISHES
+                dishes:DISHES 
       };
  }
 
