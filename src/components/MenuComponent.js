@@ -21,7 +21,7 @@ import { Card, CardImg, CardImgOverlay, CardText, CardBody,
             return(
                 <Card>
                     <CardImg top src={dish.image} alt={dish.name} />
-                    <CardBody>
+                    <CardBody> 
                       <CardTitle>{dish.name}</CardTitle>
                       <CardText>{dish.description}</CardText>
                     </CardBody>
