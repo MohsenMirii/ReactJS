@@ -5,7 +5,7 @@ import { Card, CardImg, CardImgOverlay, CardText, CardBody,
   class Menu extends Component {
 
     constructor(props) {
-        super(props);
+        super(props); 
 
         this.state = {
             selectedDish: null
